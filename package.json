@@ -1,0 +1,11 @@
+{
+  "name": "visual-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Liza Dayoub",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "cypress": "^3.2.0"
+  }
+}
